@@ -1,0 +1,2 @@
+# jvc-resolusi
+projek pertama
